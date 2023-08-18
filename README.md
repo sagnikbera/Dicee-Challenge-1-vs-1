@@ -30,3 +30,6 @@ Contributions to the project are always welcome. If you have any ideas, suggesti
 This project is licensed under the MIT License. Feel free to modify and distribute it as per the terms of the license.
 
 Enjoy playing the Dicee Challenge game and have a great time competing with your friends!
+
+**Live**
+https://sagnikbera.github.io/Dicee-Challenge-1-vs-1/
